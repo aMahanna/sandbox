@@ -10,3 +10,4 @@ In this repo:
 * Ocaml
 * Prolog
 * Python
+* VHDL
