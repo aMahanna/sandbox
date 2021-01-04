@@ -2,7 +2,7 @@
 
 Languages practiced go here.
 
-In this repo:  
+In this repo so far:  
 * C++
 * Golang
 * Java
