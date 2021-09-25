@@ -1,5 +1,5 @@
 # IO Parse Data
 
-`g++ -o test parseData.cpp && ./test` 
+`g++ -o test main.cpp && ./test` 
 
 Basic file I/O in C++ 
