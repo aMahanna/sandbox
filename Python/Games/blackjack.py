@@ -163,7 +163,7 @@ class GameOfCards:
     def __init__(self):
         'initializes the packet of 52 cards'
         self.packet = []          # packet is empty at the start
-        for color in GameOfCards.colors: 
+        for color in self.colors: 
             for value in GameOfCards.values: # variables of the class
                 # add a card of value and color
                 self.packet.append(Card(value,color))
